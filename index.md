@@ -4,13 +4,13 @@
 
 ### Windows
 
-[Video Tutorial](https://www.youtube.com/watch?v=q0PjTAylwoU)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q0PjTAylwoU?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 Install R by downloading and running [this .exe file](http://cran.r-project.org/bin/windows/base/release.htm) from [CRAN](http://cran.r-project.org/index.html). Also, please install the [RStudio IDE](http://www.rstudio.com/ide/download/desktop). Note that if you have separate user and admin accounts, you should run the installers as administrator (right-click on .exe file and select "Run as administrator" instead of double-clicking). Otherwise problems may occur later, for example when installing R packages.
 
 ### macOS (OS X)
 
-[Video Tutorial](https://www.youtube.com/watch?v=5-ly3kyxwEg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5-ly3kyxwEg?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 Install R by downloading and running [this .pkg file](http://cran.r-project.org/bin/macosx/R-latest.pkg) from [CRAN](http://cran.r-project.org/index.html). Also, please install the [RStudio IDE](http://www.rstudio.com/ide/download/desktop).
 
